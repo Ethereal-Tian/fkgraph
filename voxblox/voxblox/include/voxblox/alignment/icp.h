@@ -1,7 +1,7 @@
 /*
  * Software License Agreement (BSD License)
  *
- *  Point Cloud Library (PCL) - www.pointclouds.org
+ *  Point Cloud Library (PCL) - www.pointclouds.org 
  *  Copyright (c) 2010, Willow Garage, Inc.
  *  Copyright (c) 2012-, Open Perception, Inc.
  *

@@ -35,7 +35,6 @@ TaskList.md
 
 .cache
 compile_commands.json
-core
 
 .vim
 .ccls-cache
